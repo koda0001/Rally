@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Rally</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <string name="ok">OK</string>
+
+    <string name="back">Back</string>
+    <string name="navigate">Navigate</string>
+    <string name="achievements">Achievements</string>
+    <string name="loading">Please wait…</string>
+    <string name="achievement_progress">%.2f / %d</string>
+    <!-- Paste BOTH strings as required from back4app-->
+    <string name="back4app_app_id">yNysF7GLfhNMhHg6YN21dIIfa0vAuQbYax6TjbGw</string>
+    <string name="back4app_client_key">CSLf21GDXq56RjYo7xnPY7AiKKfmkYNoW7pVUBF2</string>
+    <string name="car_inspection">Car Inspection</string>
+    <string name="navigation">Navigation</string>
+    <string name="my_routes">My routes</string>
+    <string name="weather">Weather</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="speed_with_value">Speed: %s</string>
+    <string name="location">Location:</string>
+    <string name="searching">Searching…</string>
+    <string name="azimuth">Angle: %s</string>
+    <string name="add_route">Add route</string>
+
+    <string name="save_route">Save route</string>
+    <string name="successful_sign_up">Successful Sign Up!</string>
+    <string name="you_can_login">You can now login!</string>
+    <string name="obd_data">OBD Data: %s</string>
+
+    <string name="logout">Logout\n</string>
+    <string name="route_name">Route name</string>
+    <string name="register">register</string>
+    <string name="login_failed">Login failed</string>
+    <string name="no_account_yet">No account yet?</string>
+    <string name="forgotten_password">Forgotten password?</string>
+    <string name="try_again">Try again</string>
+    <string name="weather_with_colon">Weather:</string>
+    <string name="weather_data">Temperature: %s°C\nHumidity: %.2f %% \nWind speed: %.2f m/s\nWind direction: %.2f</string>
+    <string name="registered_successfuly">Registered successfuly</string>
+    <string name="cancel">Cancel</string>
+    <string name="destination_location">Destination Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="destination">Destination</string>
+    <string name="warning_marker">Warning Marker</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="data_updated">Data updated</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="route_finished">Route finished</string>
+</resources>
